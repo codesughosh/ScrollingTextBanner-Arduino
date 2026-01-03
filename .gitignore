@@ -1,0 +1,21 @@
+# Arduino build output
+*.o
+*.elf
+*.hex
+*.map
+*.lst
+
+# Arduino IDE cache
+.sketch/
+build/
+sketch/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
+
+# Logs
+*.log
